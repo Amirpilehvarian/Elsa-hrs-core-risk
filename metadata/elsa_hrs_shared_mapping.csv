@@ -1,0 +1,88 @@
+elsa_name,role,hrs_current,hrs_next,mapping_status,include_in_shared_model,hrs_label,hrs_current_missing_pct,hrs_next_missing_pct,notes
+ARMSA,both,armsa,armsa_next,direct_exact,1,difficulty reaching or extending arms up,0.5357,18.7222,Direct overlap
+ARTHRE,both,arthre,arthre_next,direct_exact,1,ever had arthritis,0.0,18.3357,Direct overlap
+BATHA,both,batha,batha_next,direct_exact,1,difficulty bathing or showering,0.3014,18.5319,Direct overlap
+BEDA,both,beda,beda_next,direct_exact,1,difficulty getting in or out of bed,0.3337,18.562,Direct overlap
+CANCRE,both,cancre,cancre_next,direct_exact,1,ever had cancer,0.0,18.3357,Direct overlap
+CHAIRA,both,chaira,chaira_next,direct_exact,1,difficulty getting up from chair,0.4416,18.6535,Direct overlap
+CLIM1A,both,clim1a,clim1a_next,direct_exact,1,difficulty climbing one flight of stairs,2.2142,20.0655,Direct overlap
+CLIMSA,both,climsa,climsa_next,direct_exact,1,difficulty climbing several flights of stairs,5.7315,22.7117,Direct overlap
+DIABE,both,diabe,diabe_next,direct_exact,1,ever had diabetes,0.0,18.3357,Direct overlap
+DIMEA,both,dimea,dimea_next,direct_exact,1,difficulty picking up a dime,0.4421,18.6535,Direct overlap
+DRESSA,both,dressa,dressa_next,direct_exact,1,difficulty dressing,0.311,18.5403,Direct overlap
+EATA,both,eata,eata_next,direct_exact,1,difficulty eating,0.311,18.543,Direct overlap
+HEARTE,both,hearte,hearte_next,direct_exact,1,ever had heart problems,0.0,18.3357,Direct overlap
+HIBPE,both,hibpe,hibpe_next,direct_exact,1,ever had high blood pressure,0.0,18.3357,Direct overlap
+LIFTA,both,lifta,lifta_next,direct_exact,1,difficulty lifting or carrying 10 pounds,2.476,20.2416,Direct overlap
+LUNGE,both,lunge,lunge_next,direct_exact,1,ever had lung disease,0.0,18.3357,Direct overlap
+MONEYA,both,moneya,moneya_next,direct_exact,1,difficulty managing money,2.9948,20.8143,Direct overlap
+PHONEA,both,phonea,phonea_next,direct_exact,1,difficulty using telephone,0.5526,18.737,Direct overlap
+PUSHA,both,pusha,pusha_next,direct_exact,1,difficulty pushing or pulling large object,3.7145,21.1485,Direct overlap
+SHOPA,both,shopa,shopa_next,direct_exact,1,difficulty shopping for groceries,2.4522,20.2844,Direct overlap
+STOOPA,both,stoopa,stoopa_next,direct_exact,1,"difficulty stooping, kneeling, or crouching",1.3686,19.4108,Direct overlap
+STROKE,both,stroke,stroke_next,direct_exact,1,ever had stroke,0.0,18.3357,Direct overlap
+TOILTA,both,toilta,toilta_next,direct_exact,1,difficulty using the toilet,0.386,18.6075,Direct overlap
+WALKRA,both,walkra,walkra_next,direct_exact,1,difficulty walking across room,0.3268,18.5541,Direct overlap
+INDAGER,predictor,age,age_next,direct_semantic,1,age at measurement,0.0,0.0,Safe semantic match for age
+SHLT,predictor,shlt,shlt_next,semantic_mismatch_excluded,0,self-reported health deficit (binary in HRS),0.0894,18.4145,"Excluded from shared model: HRS stores a binary deficit, while ELSA uses an ordinal self-rated-health scale."
+WALK100A,both,walk1a,walk1a_next,candidate_proxy,0,difficulty walking one block,0.8726,18.9962,Candidate proxy only; not a direct 100-yard measure
+ANGINE,both,,,unavailable,0,,,,
+ASTHMAE,both,,,unavailable,0,,,,
+CATRACTE,both,,,unavailable,0,,,,
+COMMUNA,both,,,unavailable,0,,,,
+CONHRTFE,both,,,unavailable,0,,,,
+DANGERA,both,,,unavailable,0,,,,
+HCHOLE,both,,,unavailable,0,,,,
+HIPE,both,,,unavailable,0,,,,
+HOUSEWKA,both,,,unavailable,0,,,,
+HRTATTE,both,,,unavailable,0,,,,
+HRTMRE,both,,,unavailable,0,,,,
+HRTRHME,both,,,unavailable,0,,,,
+MAPA,both,,,unavailable,0,,,,
+MEALSA,both,,,unavailable,0,,,,
+MEDSA,both,,,unavailable,0,,,,
+OSTEOE,both,,,unavailable,0,,,,
+PARKINE,both,,,unavailable,0,,,,
+PSYCHE,both,,,unavailable,0,,,,
+SITA,both,,,unavailable,0,,,,
+ALZHE,predictor,,,unavailable,0,,,,
+CATRCTE,predictor,,,unavailable,0,,,,
+DEMENE,predictor,,,unavailable,0,,,,
+DSIGHT,predictor,,,unavailable,0,,,,
+FALL,predictor,,,unavailable,0,,,,
+FALLEQ,predictor,,,unavailable,0,,,,
+FALLINJ,predictor,,,unavailable,0,,,,
+FALLNUM,predictor,,,unavailable,0,,,,
+HEARING,predictor,,,unavailable,0,,,,
+HIPRE,predictor,,,unavailable,0,,,,
+JOINTRE,predictor,,,unavailable,0,,,,
+LTACTX_E,predictor,,,unavailable,0,,,,
+MDACTX_E,predictor,,,unavailable,0,,,,
+MEMRYE,predictor,,,unavailable,0,,,,
+MMALONE,predictor,,,unavailable,0,,,,
+MMAVSP,predictor,,,unavailable,0,,,,
+MMHSS,predictor,,,unavailable,0,,,,
+MMSAF,predictor,,,unavailable,0,,,,
+MMTRYA,predictor,,,unavailable,0,,,,
+MMTRYB,predictor,,,unavailable,0,,,,
+MMWILL,predictor,,,unavailable,0,,,,
+NSIGHT,predictor,,,unavailable,0,,,,
+PAINFR,predictor,,,unavailable,0,,,,
+PAINLV,predictor,,,unavailable,0,,,,
+RXASTHMA,predictor,,,unavailable,0,,,,
+RXBLDTHN,predictor,,,unavailable,0,,,,
+RXDIAB,predictor,,,unavailable,0,,,,
+RXDIABI,predictor,,,unavailable,0,,,,
+RXDIABO,predictor,,,unavailable,0,,,,
+RXHIBP,predictor,,,unavailable,0,,,,
+RXLUNG,predictor,,,unavailable,0,,,,
+SIGHT,predictor,,,unavailable,0,,,,
+TRCANCR,predictor,,,unavailable,0,,,,
+URINAI,predictor,,,unavailable,0,,,,
+VGACTX_E,predictor,,,unavailable,0,,,,
+WALKAID,predictor,,,unavailable,0,,,,
+WALKCOMP,predictor,,,unavailable,0,,,,
+WALKFLR,predictor,,,unavailable,0,,,,
+WALKPAIN,predictor,,,unavailable,0,,,,
+WSPEED1,predictor,,,unavailable,0,,,,
+WSPEED2,predictor,,,unavailable,0,,,,

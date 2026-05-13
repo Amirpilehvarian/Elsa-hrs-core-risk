@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and the original ELSA/HRS data sources."
+title: "ELSA-HRS Core Risk Reproducibility Package"
+authors:
+  - family-names: Pilehvarian
+    given-names: Amirhossein
+  - family-names: Rutenberg
+    given-names: Andrew D.
+  - family-names: Dil
+    given-names: Emre
+year: 2026
+repository-code: "https://github.com/Amirpilehvarian/Elsa-hrs-core-risk"
+license: MIT

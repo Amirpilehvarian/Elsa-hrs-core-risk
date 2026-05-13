@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+env/
+
+# Restricted or participant-level data.
+/data/
+/Transition_data/
+/analysis/
+*.sav
+*.dta
+*.sas7bdat
+*.csv.gz
+
+# Generated manuscript outputs.
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc

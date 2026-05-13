@@ -1,0 +1,26 @@
+elsa_name,role,hrs_current,hrs_next,mapping_status,hrs_label,notes,target_type
+ARMSA,both,armsa,armsa_next,direct_exact,difficulty reaching or extending arms up,Direct overlap,ADL
+ARTHRE,both,arthre,arthre_next,direct_exact,ever had arthritis,Direct overlap,Disease
+BATHA,both,batha,batha_next,direct_exact,difficulty bathing or showering,Direct overlap,ADL
+BEDA,both,beda,beda_next,direct_exact,difficulty getting in or out of bed,Direct overlap,ADL
+CANCRE,both,cancre,cancre_next,direct_exact,ever had cancer,Direct overlap,Disease
+CHAIRA,both,chaira,chaira_next,direct_exact,difficulty getting up from chair,Direct overlap,ADL
+CLIM1A,both,clim1a,clim1a_next,direct_exact,difficulty climbing one flight of stairs,Direct overlap,ADL
+CLIMSA,both,climsa,climsa_next,direct_exact,difficulty climbing several flights of stairs,Direct overlap,ADL
+DIABE,both,diabe,diabe_next,direct_exact,ever had diabetes,Direct overlap,Disease
+DIMEA,both,dimea,dimea_next,direct_exact,difficulty picking up a dime,Direct overlap,ADL
+DRESSA,both,dressa,dressa_next,direct_exact,difficulty dressing,Direct overlap,ADL
+EATA,both,eata,eata_next,direct_exact,difficulty eating,Direct overlap,ADL
+HEARTE,both,hearte,hearte_next,direct_exact,ever had heart problems,Direct overlap,Disease
+HIBPE,both,hibpe,hibpe_next,direct_exact,ever had high blood pressure,Direct overlap,Disease
+LIFTA,both,lifta,lifta_next,direct_exact,difficulty lifting or carrying 10 pounds,Direct overlap,ADL
+LUNGE,both,lunge,lunge_next,direct_exact,ever had lung disease,Direct overlap,Disease
+MONEYA,both,moneya,moneya_next,direct_exact,difficulty managing money,Direct overlap,ADL
+PHONEA,both,phonea,phonea_next,direct_exact,difficulty using telephone,Direct overlap,ADL
+PUSHA,both,pusha,pusha_next,direct_exact,difficulty pushing or pulling large object,Direct overlap,ADL
+SHOPA,both,shopa,shopa_next,direct_exact,difficulty shopping for groceries,Direct overlap,ADL
+STOOPA,both,stoopa,stoopa_next,direct_exact,"difficulty stooping, kneeling, or crouching",Direct overlap,ADL
+STROKE,both,stroke,stroke_next,direct_exact,ever had stroke,Direct overlap,Disease
+TOILTA,both,toilta,toilta_next,direct_exact,difficulty using the toilet,Direct overlap,ADL
+WALKRA,both,walkra,walkra_next,direct_exact,difficulty walking across room,Direct overlap,ADL
+INDAGER,predictor,age,age_next,direct_semantic,age at measurement,Safe semantic match for age,Other

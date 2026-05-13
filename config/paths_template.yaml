@@ -1,0 +1,12 @@
+# Copy this file to paths.yaml and edit for your local authorized data location.
+
+project_root: /path/to/elsa_hrs_core_risk
+
+# Restricted source data. These files are not distributed with the public repository.
+elsa_imputed_wave_dir: /path/to/restricted/ELSA/Imputed_data/Core/MNAR_Pmm
+hrs_preprocessed_markov_csv: /path/to/restricted/HRS/hrs_rand_preproc.csv
+
+# Local generated outputs. These folders should remain outside version control.
+transition_root: /path/to/generated/Transition_data
+analysis_root: /path/to/generated/analysis
+manuscript_assets_root: /path/to/generated/manuscript/assets

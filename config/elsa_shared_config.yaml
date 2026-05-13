@@ -1,0 +1,17 @@
+dataset: ELSA_shared
+waves: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+transitions:
+  - S1_S2
+  - S2_S3
+  - S3_S4
+  - S4_S5
+  - S5_S6
+  - S6_S7
+  - S7_S8
+  - S8_S9
+predictor_count: 25
+target_count: 24
+shared_schema_file: metadata/elsa_hrs_shared_schema.csv
+models:
+  lr: target_specific_logistic_regression
+  dnn: one_hidden_layer_multi_output

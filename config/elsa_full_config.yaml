@@ -1,0 +1,18 @@
+dataset: ELSA_full
+waves: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+transitions:
+  - S1_S2
+  - S2_S3
+  - S3_S4
+  - S4_S5
+  - S5_S6
+  - S6_S7
+  - S7_S8
+  - S8_S9
+scenario: MNAR
+imputation_method: Pmm
+predictor_count: 87
+target_count: 44
+models:
+  lr: target_specific_logistic_regression
+  dnn: one_hidden_layer_multi_output

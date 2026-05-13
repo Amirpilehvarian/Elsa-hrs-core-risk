@@ -1,0 +1,205 @@
+canon_labels,new_var,W09_var,W08_var,W07_var,W06_var,W05_var,W04_var,W03_var,W02_var
+age first told had cancer,HeAgg,,,HeAgg,HeAgg,heagg,heagg,heagg,HeAgg
+difficulty walking 1 4 mile unaided,HeFunc,,,HeFunc,HeFunc,HeFunc,hefunc,hefunc,HeFunc
+whether health condition prevents from walking,MmHSS,,,MmHSS,MmHSS,mmhss,mmhss,mmhss,MmHSS
+age of natural father,dianf,dianf,dianf,DiANF,DiANF,dianf,dianf,dianf,DiANF
+age of natural mother,dianm,dianm,dianm,DiANM,DiANM,dianm,dianm,dianm,DiANM
+whether mother of respondent is still alive,dinma,dinma,dinma,DiNMA,DiNMA,dinma,dinma,dinma,DiNMA
+whether ever been told has diabetes by doctor,heacd,heacd,heacd,HeACd,HeACd,,heacd,dheacd,HeACd
+diabetes whether ace inhibitor or a2 receptor blocker discussed by doctor,heace,heace,heace,HeAce,HeAce,heace,heace,heace,HeAce
+diabetes whether taking ace inhibitor or a2 receptor blocker,heacea,heacea,heacea,HeAcea,HeAcea,heacea,heacea,heacea,HeAcea
+frequency does vigorous sports or activities,heacta,heacta,heacta,HeActa,HeActa,heacta,heacta,heacta,HeActa
+frequency does mild sports or activities,heactc,heactc,heactc,HeActc,HeActc,heactc,heactc,heactc,HeActc
+adl difficulty bathing or showering,headlba,headlba,headlba,,headlba,headlba,headlba,headlba,
+adl difficulty dressing including putting on shoes and socks,headldr,headldr,headldr,headldr,headldr,headldr,headldr,headldr,
+adl difficulty eating such as cutting up food,headlea,headlea,headlea,headlea,headlea,headlea,headlea,headlea,
+iadl difficulty using map to figure out how to get around strange place,headlma,headlma,headlma,headlma,headlma,headlma,headlma,headlma,
+iadl difficulty taking medications,headlme,headlme,headlme,headlme,headlme,headlme,,headlme,
+iadl difficulty making telephone calls,headlph,headlph,headlph,headlph,headlph,headlte,,headlph,
+iadl difficulty preparing a hot meal,headlpr,headlpr,headlpr,headlpr,headlpr,headlpr,,headlpr,
+iadl difficulty shopping for groceries,headlsh,headlsh,headlsh,headlsh,headlsh,headlsh,,headlsh,
+adl difficulty walking across a room,headlwa,headlwa,headlwa,headlwa,headlwa,headlwa,headlwa,headlwa,
+adl difficulty using the toilet including getting up or down,headlwc,headlwc,,headlwc,headlwc,headlwc,headlwc,headlwc,
+age first told had angina,heaga,heaga,heaga,HeAga,H,heaga,heaga,heaga,HeAga
+age first told had heart attack,heagb,heagb,heagb,HeAgb,HeAgb,heagb,heagb,heagb,HeAgb
+age first told had congestive heart failure,heagc,heagc,heagc,HeAgc,HeAgc,heagc,heagc,heagc,HeAgc
+age first told had diabetes or high blood sugar,heagd,heagd,heagd,HeAgd,HeAgd,heagd,heagd,heagd,HeAgd
+age first told had stroke,heage,heage,heage,HeAge,HeAge,heage,heage,heage,HeAge
+age first told had arthritis,heagf,heagf,heagf,HeAgf,HeAgf,heagf,heagf,heagf,HeAgf
+age told had dementia,heagj,heagj,,HeAgj,HeAgj,heagj,heagj,heagj,HeAgj
+aids used not use any of listed aids,heaid96,heaid96,heaid96,heaid96,heaid96,heaid96,heaid96,heaid96,
+aids used buggy or scooter,heaidbu,heaidbu,heaidbu,heaidbu,heaidbu,heaidbu,heaidbu,heaidbu,
+aids used cane or walking stick,heaidca,heaidca,heaidca,heaidca,heaidca,heaidca,heaidca,heaidca,
+aids used special eating utensil,heaidea,heaidea,heaidea,heaidea,heaidea,heaidea,heaidea,heaidea,
+aids used electric wheelchair,heaidew,heaidew,heaidew,heaidew,heaidew,heaidew,heaidew,heaidew,
+aids used manual wheelchair,heaidmw,heaidmw,heaidmw,heaidmw,heaidmw,heaidmw,heaidmw,heaidmw,
+aids used zimmer frame or walker,heaidzi,heaidzi,heaidzi,heaidzi,heaidzi,heaidzi,heaidzi,heaidzi,
+whether taking medication for asthma,heama,heama,heama,HeAma,,heama,heama,heama,HeAma
+whether taking medication for preventing asthma,heamb,heamb,heamb,HeAmb,HeAmb,heamb,heamb,heamb,
+whether has osteoarthritis,heartoa,heartoa,,heartoa,heartoa,heartoa,heartoa,heartoa,
+whether has other kind of arthritis,heartot,heartot,heartot,,heartot,heartot,heartot,heartot,
+whether has rheumatoid arthritis,heartra,heartra,heartra,heartra,heartra,heartra,heartra,heartra,
+cancer whether received treatment in last 2 years,hecanb,hecanb,hecanb,HeCanb,HeCanb,hecanb,hecanb,hecanb,HeCanb
+cholesterol whether taking medication to lower cholesterol level,hechmd,hechmd,hechmd,HeChMd,HeChMd,hechmd,hechmd,hechmd,
+cholesterol whether taking medication to prevent level becoming high,hechme,hechme,hechme,HeChMe,HeChMe,hechme,hechme,hechme,
+whether confirms other heart disease diagnosis,hedac95,hedac95,hedac95,hedacot,hedacot,,hedacot,hedacot,
+whether confirms angina diagnosis,hedacan,,hedacan,hedacan,hedacan,hedacan,hedacan,hedacan,
+whether confirms abnormal heart rhythm diagnosis,hedacar,hedacar,,hedacar,hedacar,hedacar,hedacar,hedacar,
+whether confirms high blood pressure diagnosis,hedacbp,hedacbp,hedacbp,hedacbp,,hedacbp,hedacbp,hedacbp,
+whether confirms diabetes or high blood sugar diagnosis,hedacdi,hedacdi,hedacdi,hedacdi,hedacdi,,hedacdi,hedacdi,
+whether confirms congestive heart failure diagnosis,hedachf,hedachf,hedachf,,hedachf,hedachf,hedachf,hedachf,
+whether confirms heart murmur diagnosis,hedachm,hedachm,hedachm,hedachm,hedachm,hedachm,hedachm,hedachm,
+whether confirms heart attack diagnosis,hedacmi,,hedacmi,hedacmi,hedacmi,hedacmi,hedacmi,hedacmi,
+whether confirms stroke diagnosis,hedacst,hedacst,hedacst,hedacst,hedacst,hedacst,hedacst,hedacst,
+reason disputed other heart disease diagnosis fed forward,hedan95,hedan95,,hedanot,hedanot,hedanot,hedanot,hedanot,
+reason disputed angina diagnosis fed forward,hedanan,hedanan,hedanan,hedanan,,hedanan,hedanan,hedanan,
+reason disputed abnormal heart rhythm diagnosis fed forward,hedanar,hedanar,hedanar,hedanar,hedanar,hedanar,hedanar,hedanar,
+reason disputed high blood pressure diagnosis fed forward,hedanbp,hedanbp,,hedanbp,hedanbp,hedanbp,hedanbp,hedanbp,
+reason disputed diabetes or high blood sugar diagnosis fed forward,hedandi,hedandi,hedandi,hedandi,hed,hedandi,hedandi,hedandi,
+reason disputed congestive heart failure diagnosis fed forward,hedanhf,hedanhf,hedanhf,hedanhf,hedanhf,hedanhf,hedanhf,hedanhf,
+reason disputed heart murmur diagnosis fed forward,hedanhm,hedanhm,hedanhm,,hedanhm,hedanhm,hedanhm,hedanhm,
+reason disputed heart attack diagnosis fed forward,hedanmi,hedanmi,hedanmi,hedanmi,hedanmi,hedanmi,hedanmi,hedanmi,
+reason disputed stroke diagnosis fed forward,hedanst,hedanst,hedanst,hedanst,hedanst,hedanst,hedanst,hedanst,
+whether still has other heart disease,hedas95,hedas95,hedas95,hedasot,hedasot,hedasot,hedasot,hedasot,
+whether still has abnormal heart rhythm,hedasar,hedasar,hedasar,hedasar,hedasar,hedasar,hedasar,hedasar,
+whether still has high blood pressure,hedasbp,hedasbp,hedasbp,hedasbp,hedasbp,hedasbp,hedasbp,hedasbp,
+whether still has high cholesterol,hedasch,hedasch,hedasch,hedasch,hedasch,hedasch,hedasch,hedasch,
+whether still has congestive heart failure,hedashf,hedashf,hedashf,hedashf,hedashf,hed,hedashf,hedashf,
+whether still has heart murmur,hedashm,hedashm,hedashm,hedashm,,hedashm,hedashm,hedashm,
+diagnosed other heart disease fed forward,hedaw95,hedaw95,hedaw95,hedawot,hedawot,hedawot,hedawot,hedawot,
+diagnosed angina fed forward,hedawan,hedawan,hedawan,hedawan,hedawan,hedawan,hedawan,hedawan,
+diagnosed abnormal heart rhythm fed forward,hedawar,hedawar,hedawar,hedawar,hedawar,hedawar,hedawar,hedawar,
+diagnosed high blood pressure fed forward,hedawbp,hedawbp,hedawbp,hedawbp,hedawbp,hedawbp,hedawbp,hedawbp,
+diagnosed high cholesterol fed forward,hedawch,hedawch,hedawch,,hedawch,hedawch,hedawch,hedawch,
+diagnosed diabetes or high blood sugar fed forward,hedawdi,hedawdi,hedawdi,hedawdi,hedawdi,hedawdi,hedawdi,hedawdi,
+diagnosed congestive heart failure fed forward,hedawhf,hedawhf,hedawhf,hedawhf,hedawhf,,hedawhf,hedawhf,
+diagnosed heart murmur fed forward,hedawhm,hedawhm,hedawhm,hedawhm,hedawhm,hedawhm,hedawhm,hedawhm,
+diagnosed heart attack fed forward,hedawmi,hedawmi,hedawmi,hedawmi,hedawmi,hedawmi,hedawmi,hedawmi,
+diagnosed stroke fed forward,hedawst,hedawst,hedawst,hedawst,hedawst,hedawst,hedawst,hedawst,
+whether confirms asthma diagnosis,hedbdas,hedbdas,hedbdas,hedbdas,hedbdas,hedbdas,hedbdas,hedbdas,
+whether confirms cancer diagnosis,hedbdca,hedbdca,hedbdca,hedbdca,hedbdca,hedbdca,hedbdca,hedbdca,
+whether confirms dementia diagnosis,hedbdde,hedbdde,he,hedbdde,hedbdde,hedbdde,hedbdde,hedbdde,
+whether confirms lung disease diagnosis,hedbdlu,hedbdlu,,hedbdlu,hedbdlu,hedbdlu,hedbdlu,hedbdlu,
+whether confirms osteoporosis diagnosis,hedbdos,hedbdos,hedbdos,hedbdos,hedbdos,hedbdos,hedbdos,hedbdos,
+whether still has lung disease,hedblu,hedblu,hedblu,hedblu,hedblu,hedblu,hedbslu,hedblu,
+reason disputed arthritis diagnosis fed forward,hedbmar,hedbmar,hedbmar,hedbmar,hedbmar,hedbmar,hedbmar,hedbmar,
+reason disputed asthma diagnosis fed forward,hedbmas,hedbmas,hedbmas,hedbmas,hedbmas,hedbmas,hedbmas,hedbmas,
+reason disputed cancer diagnosis fed forward,hedbmca,hedbmca,hedbmca,hedbmca,,hedbmca,hedbmca,hedbmca,
+reason disputed dementia diagnosis fed forward,hedbmde,hedbmde,hedbmde,hedbmde,hedbmde,,hedbmde,hedbmde,
+reason disputed lung disease diagnosis fed forward,hedbmlu,hedbmlu,,hedbmlu,hedbmlu,hedbmlu,hedbmlu,hedbmlu,
+reason disputed osteoporosis diagnosis fed forward,hedbmos,hedbmos,hedbmos,hedbmos,hedbmos,hedbmos,hedbmos,hedbmos,
+whether still has arthritis,hedbsar,hedbsar,hedbsar,hedbsar,hedbsar,hedbsar,hedbsar,hedbsar,
+whether still has asthma,hedbsas,hedbsas,hedbsas,hedbsas,hedbsas,hedbsas,hedbsas,hedbsas,
+whether still has cancer,hedbsca,hedbsca,hedbsca,hedbsca,,hedbsca,hedbsca,hedbsca,
+whether still has dementia,hedbsde,hedbsde,hedbsde,hedbsde,hedbsde,hedbsde,hedbsde,hedbsde,
+chronic whether still has osteoporosis,hedbsos,hedbsos,hedbsos,hedbsos,hedbsos,hedbsos,hedbsos,hedbsos,
+chronic diagnosed arthritis fed forward,hedbwar,hedbwar,hedbwar,hedbwar,hedbwar,hedbwar,hedbwar,hedbwar,
+chronic diagnosed asthma fed forward,hedbwas,hedbwas,hedbwas,hedbwas,hedbwas,hedbwas,hedbwas,hedbwas,
+chronic diagnosed cancer fed forward,hedbwca,hedbwca,hedbwca,hedbwca,hedbwca,hedbwca,hedbwca,hedbwca,
+chronic diagnosed dementia fed forward,hedbwde,hedbwde,hedbwde,hedbwde,hedbwde,hedbwde,hedbwde,hedbwde,
+chronic diagnosed lung disease fed forward,hedbwlu,hedbwlu,hedbwlu,hedbwlu,,hedbwlu,hedbwlu,hedbwlu,
+chronic diagnosed osteoporosis fed forward,hedbwos,hedbwos,hedbwos,hedbwos,hedbwos,hedbwos,hedbwos,hedbwos,
+chronic diagnosed psychiatric condition fed forward,hedbwps,hedbwps,hedbwps,hedbwps,hedbwps,,hedbwps,hedbwps,
+chronic no new diagnosis reported,hedib96,hedib96,hedib96,hedib96,hedib96,hedib96,hedib96,hedib96,
+chronic arthritis diagnosis newly reported,hedibar,hedibar,hedibar,hedibar,hedibar,hedibar,hedibar,dhedibar,
+chronic asthma diagnosis newly reported,hedibas,hedibas,hedibas,hedibas,hedibas,hedibas,hedibas,dhedibas,
+chronic blood disorder diagnosis newly reported,hedibbl,hedibbl,hedibbl,hedibbl,hedibbl,hedibbl,hedibbl,hedibbl,
+chronic cancer diagnosis newly reported,hedibca,hedibca,hedibca,hedibca,hedibca,hedibca,hedibca,dhedibca,
+chronic dementia diagnosis newly reported,hedibde,hedibde,hedibde,hedibde,hedibde,hedibde,hedibde,dhedibde,
+chronic lung disease diagnosis newly reported,hediblu,hediblu,hediblu,hediblu,hediblu,hediblu,hediblu,dhediblu,
+chronic osteoporosis diagnosis newly reported,hedibos,hedibos,hedibos,hedibos,hedibos,hedibos,hedibos,dhedibos,
+chronic psychiatric condition newly reported,hedibps,hedibps,hedibps,hedibps,hedibps,hedibps,hedibps,dhedibps,
+foot pain rating walking on flat surface,hefet,hefet,hefet,HeFet,HeFet,hefet,hefet,hefet,HeFet
+fall whether injured seriously enough to need medical treatment,heflc,heflc,heflc,,,heflc,heflc,heflc,HeFlc
+eyesight for recognition of friend across street,hefrnd,hefrnd,hefrnd,,Hefrnd,hefrnd,hefrnd,hefrnd,Hefrnd
+stroke whether blood pressure lowering medication suggested by doctor or nurse,hehbpb1,hehbpb1,,hehbpb1,hehbpb1,hehbpb1,hehbpb1,hehbpb1,hehbpb1
+hip pain rating walking on flat surface,hehip,hehip,hehip,HeHip,HeHip,hehip,hehip,hehip,HeBck
+hearing whether finds it difficult to follow conversation when background noise,hehra,hehra,hehra,HeHra,HeHra,hehra,hehra,hehra,HeHra
+diabetes whether currently injects insulin,heins,heins,heins,HeIns,HeIns,heins,heins,heins,HeIns
+whether had joint replacement,heji,heji,heji,HeJi,HeJi,heji,heji,heji,HeJi
+whether right hip joint replaced,hejiaa1,hejiaa1,hejiaa1,HeJiaa1,HeJiaa1,hejiaa1,hejiaa1,hejiaa1,
+whether left hip joint replaced,hejiaa2,hejiaa2,hejiaa2,HeJiaa2,HeJiaa2,hejiaa2,hejiaa2,hejiaa2,
+whether right knee joint replaced,hejiaa3,hejiaa3,hejiaa3,HeJiaa3,HeJiaa3,,hejiaa3,hejiaa3,
+whether other joint replaced,hejiaa5,hejiaa5,hejiaa5,HeJiaa5,HeJiaa5,hejiaa5,hejiaa5,hejiaa5,
+reason for left hip replacement,hejiblh,hejiblh,hejiblh,HeJibLH,HeJibLH,hejiblh,hejiblh,hejiblh,
+reason for left knee replacement,hejiblk,hejiblk,hejiblk,HeJibLK,HeJibLK,hejiblk,hejiblk,hejiblk,
+reason for right hip replacement,hejibrh,hejibrh,hejibrh,HeJibRH,HeJibRH,hejibrh,hejibrh,hejibrh,
+reason for right knee replacement,hejibrk,hejibrk,hejibrk,HeJibRK,HeJibRK,hejibrk,hejibrk,hejibrk,
+whether joint replacement paid for privately or by nhs,hejion,hejion,hejion,HeJiOn,HeJiOn,hejion,hejion,,
+knee pain rating walking on flat surface,hekne,hekne,hekne,HeKne,HeKne,hekne,hekne,hekne,HeKne
+whether long standing illness is limiting,helim,helim,helim,Helim,Helim,helim,helim,helim,Helim
+whether taking medication for lung condition,helng,helng,helng,HeLng,HeLng,helng,helng,helng,HeLng
+whether taking medication to prevent return of lung condition,helngb,helngb,helngb,HeLngB,HeLngB,helngb,helngb,helngb,
+whether has self reported health problem disability that limits paid work,helwk,helwk,helwk,HeLWk,HeLWk,helwk,helwk,helwk,HeLWk
+high blood pressure whether taking medication,hemda,hemda,hemda,HeMDa,HeMDa,hemda,hemda,hemda,Hemda
+stroke whether taking medication for blood pressure,hemda1,hemda1,hemda1,HEMDA1,HEMDA1,hemda1,hemda1,,
+high blood pressure whether taking medication to prevent high level returning,hemdab,hemdab,hemdab,HeMdab,HeMdab,hemdab,hemdab,hemdab,
+diabetes whether taking medication,hemdb,hemdb,hemdb,HeMdb,HeMdb,hemdb,hemdb,hemdb,HeMdb
+mobility difficulty getting up from chair after sitting long periods,hemobch,hemobch,hemobch,hemobch,hemobch,hemobch,hemobch,hemobch,
+mobility difficulty climbing several flights stairs without resting,hemobcs,hemobcs,hemobcs,hemobcs,hemobcs,hemobcs,hemobcs,hemobcs,
+mobility difficulty lifting or carrying weights over 10 pounds,hemobli,hemobli,,hemobli,hemobli,hemobli,hemobli,hemobli,
+mobility difficulty picking up 5p coin from table,hemobpi,hemobpi,hemobpi,hemobpi,hemobpi,hemobpi,hemobpi,hemobpi,
+mobility difficulty pulling or pushing large objects,hemobpu,hemobpu,hemobpu,,hemobpu,hemobpu,hemobpu,hemobpu,
+mobility difficulty sitting 2 hours,hemobsi,hemobsi,hemobsi,hemobsi,hemobsi,hemobsi,hemobsi,hemobsi,
+mobility difficulty stooping kneeling or crouching,hemobst,hemobst,,hemobst,hemobst,hemobst,hemobst,hemobst,
+mobility difficulty walking 100 yards,hemobwa,hemobwa,hemobwa,hemobwa,hemobwa,hemobwa,hemobwa,hemobwa,
+number of strokes in last two years,henmst,henmst,henmst,HeNmSt,HeNmSt,henmst,henmst,,
+whether confirms cataract diagnosis,heopcca,heopcca,heopcca,heopcca,heopcca,,heopcca,heopcca,
+whether confirms diabetic eye disease diagnosed,heopcdi,heopcdi,heopcdi,heopcdi,heopcdi,heopcdi,heopcdi,heopcdi,
+whether confirms glaucoma diagnosis,heopcgl,heopcgl,heopcgl,heopcgl,heopcgl,heopcgl,heopcgl,heopcgl,
+whether confirms macular degeneration diagnosis,heopcmd,heopcmd,heopcmd,heopcmd,,heopcmd,heopcmd,heopcmd,
+eye diagnosed cataract fed forward,heopfca,heopfca,heopfca,heopfca,heopfca,heopfca,heopfca,heopfca,
+eye diagnosed diabetic eye disease fed forward,heopfdi,heopfdi,heopfdi,heopfdi,,heopfdi,heopfdi,heopfdi,
+eye diagnosed glaucoma fed forward,heopfgl,heopfgl,heopfgl,,heopfgl,heopfgl,heopfgl,heopfgl,
+eye diagnosed macular degeneration fed forward,heopfmd,heopfmd,heopfmd,heopfmd,heopfmd,heopfmd,heopfmd,heopfmd,
+reason disputed cataract diagnosis fed forward,heopnca,heopnca,,heopnca,heopnca,heopnca,heopnca,heopnca,
+reason disputed glaucoma diagnosis fed forward,heopngl,heopngl,heopngl,heopngl,heopngl,heopngl,heopngl,heopngl,
+reason disputed macular degeneration diagnosis fed forward,heopnmd,heopnmd,heopnmd,heopnmd,heo,heopnmd,heopnmd,heopnmd,
+whether still has cataract,heopsca,heopsca,heopsca,heopsca,heopsca,heopsca,heopsca,heopsca,
+whether still has diabetic eye disease,heopsdi,heopsdi,heopsdi,heopsdi,heopsdi,heopsdi,heopsdi,heopsdi,
+whether still has glaucoma,heopsgl,heopsgl,heopsgl,heopsgl,heopsgl,,heopsgl,heopsgl,
+whether still has macular degeneration,heopsmd,heopsmd,heopsmd,heopsmd,heopsmd,heopsmd,heopsmd,heopsmd,
+eye no diagnosis newly reported,heopt96,heopt96,heopt96,HeOpt96,HeOpt96,heopt96,heopt96,heopt96,
+eye cataract diagnosis newly reported,heoptca,heoptca,heoptca,heoptca,heoptca,,heoptca,dheoptca,
+eye diabetic eye disease diagnosis newly reported,heoptdi,heoptdi,heoptdi,heoptdi,heoptdi,heoptdi,heoptdi,dheoptdi,
+eye glaucoma diagnosis newly reported,heoptgl,heoptgl,heoptgl,heoptgl,heoptgl,heoptgl,heoptgl,dheoptgl,
+eye macular degeneration diagnosis newly reported,heoptmd,heoptmd,heoptmd,heoptmd,heoptmd,heoptmd,heoptmd,dheoptmd,
+osteoporosis whether doctor or nurse recommended calcium pills or vitamin d,heoste,heoste,heoste,HeOste,HeOste,heoste,,,HeOste
+osteoporosis whether doctor or nurse recommended medication,heosteb,heosteb,heosteb,HeOsteb,HeOsteb,heosteb,,,HeOsteb
+osteoporosis whether taking medication,heostec,heostec,heostec,HeOstec,HeOstec,heostec,,,HeOstec
+eyesight for reading ordinary newspaper print,hepap,hepap,hepap,Hepap,Hepap,hepap,hepap,hepap,Hepap
+whether feel pain all over,hepawal,hepawal,hepawal,hepawal,hepawal,hepawal,hepawal,hepawal,
+whether feel pain in back,hepawba,hepawba,hepawba,hepawba,hepawba,hepawba,hepawba,hepawba,
+whether feel pain in feet,hepawfe,hepawfe,hepawfe,hepawfe,hepawfe,hepawfe,hepawfe,hepawfe,
+whether feel pain in hips,hepawhi,hepawhi,hepawhi,hepawhi,hepawhi,hepawhi,hepawhi,hepawhi,
+whether feel pain in knees,hepawkn,hepawkn,hepawkn,hepawkn,hepawkn,hepawkn,hepawkn,hepawkn,
+whether feel pain in mouth or teeth,hepawmo,hepawmo,hepawmo,hepawmo,hepawmo,hepawmo,hepawmo,hepawmo,
+whether feel pain elsewhere,hepawot,hepawot,hepawot,hepawot,,hepawot,hepawot,hepawot,
+stroke whether has any remaining problems,hepbs,hepbs,hepbs,HePBS,HePBS,hepbs,hepbs,hepbs,HePbs
+whether smokes cigarettes at all nowadays,heska,heska,heska,HESka,HESka,heska,heska,heska,
+whether stopped smoking,heskf,heskf,heskf,,HeSkf,heskf,heskf,heskf,HeSkf
+whether ever smoked cigarettes,hesmk,hesmk,hesmk,HeSmk,HeSmk,hesmk,hesmk,hesmk,HeSmk
+stroke whether has difficulty speaking or swallowing,hespk,hespk,hespk,HeSpk,,hespk,hespk,hespk,HeSpk
+diabetes whether ever had glycosylated haemoglobin a1c test,hesug,,hesug,,Hesug,hesug,hesug,hesug,Hesug
+diabetes whether had a1c test in last 12 months,hesuga,,hesuga,,Hesuga,hesuga,hesuga,hesuga,Hesuga
+amount of tobacco smokes per weekday whether reported in grams or ounces,hetba,hetba,hetba,HeTba,HeTba,hetba,hetba,hetba,HeTba
+amount of tobacco smokes per weekend day whether reported in grams or ounces,hetbc,hetbc,hetbc,HeTbc,HeTbc,hetbc,hetbc,hetbc,HeTbc
+amount of tobacco smokes per weekend day amount smokes,hetbd,hetbd,hetbd,HETbd,HETbd,hetbd,hetbd,hetbd,HETbd
+whether expects health problem disability to last less than 3 months,hetemp,hetemp,hetemp,,Hetemp,hetemp,hetemp,hetemp,
+stroke whether has difficulty thinking or finding right words,hethk,hethk,hethk,,HeThk,hethk,hethk,hethk,HeThk
+stroke whether has difficulty with vision,hevsi,hevsi,hevsi,HeVsi,HeVsi,hevsi,hevsi,hevsi,HeVsi
+stroke whether has weakness in arms or legs,hewks,hewks,hewks,HeWks,HeWks,hewks,hewks,hewks,
+whether had angina or chest pains in last 2 years,heyra,heyra,heyra,HeYRa,HeYRa,heyra,heyra,heyra,HeYRa
+psychiatric problems whether experienced any in last 2 years,heyrc,heyrc,,HeYrc,HeYrc,heyrc,heyrc,heyrc,HeYrc
+how often were meals cut or skipped completely,homoft,homoft,homoft,HoMoft,HoMoft,homoft,homoft,homoft,homoft
+tenure,hotenu,hotenu,hotenu,HoTenu,HoTenu,hotenu,hotenu,hotenu,hotenu
+life insurance lump sum pay out on death respondent,ialiya,ialiya,ialiya,IaLiYA,IaLiYA,ialiya,ialiya,ialiya,ialiya
+whether was happy much of the time during past week,pscedd,pscedd,pscedd,PScedD,PScedD,pscedd,pscedd,pscedd,
+whether enjoyed life much of the time during past week,pscedf,pscedf,pscedf,PScedF,PScedF,pscedf,pscedf,pscedf,
+whether could not get going much of the time during past week,pscedh,pscedh,pscedh,PScedH,PScedH,pscedh,pscedh,pscedh,
+how often respondent has had an alcoholic drink during the last 12 months,scako,,,scako,scako,scako,scako,scako,scako
+how often respondent feels left out,scfeelb,,,scfeelb,scfeelb,scfeelb,scfeelb,scfeelb,scfeelb
+whether has a husband wife or partner with whom they live,scprt,scprt,scprt,scprtr,,scptr,scptr,scptr,scptr
+cross sectional weight,w9xwgt,w9xwgt,w8xwgt,w7xwgt,w6xwgt,w5xwgt,w4xwgt,w3xwgt,
+level of physical activity in main job,wpjact,wpjact,wpjact,WpJAct,,wpjact,wpjact,wpjact,wpjact
+reason for starting work own health improved,wpwywoh,wpwywoh,wpwywoh,wpwywoh,wpwywoh,,wpwywoh,wpwywoh,

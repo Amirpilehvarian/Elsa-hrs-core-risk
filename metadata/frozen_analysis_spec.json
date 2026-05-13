@@ -1,0 +1,24 @@
+{
+  "lr": {
+    "class_weight": "none",
+    "max_iter": 2000,
+    "cv_folds": 5,
+    "seed": 42
+  },
+  "dnn": {
+    "hidden_sizes": "512",
+    "epochs": 30,
+    "batch": 64,
+    "lr": 0.001,
+    "l2": 0.0,
+    "dropout": 0.0,
+    "patience": 5,
+    "activation": "relu",
+    "batchnorm": false,
+    "standardize_x": true,
+    "reduce_lr_on_plateau": true,
+    "min_lr": 1e-05,
+    "seed": 42,
+    "selection_note": "Chosen from the focused ELSA S4_S5/S6_S7 sweep in analysis/dnn_tuning/sweep_summary_round2.csv."
+  }
+}
