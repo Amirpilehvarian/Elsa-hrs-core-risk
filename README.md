@@ -18,7 +18,7 @@ HRS and RAND HRS data can be requested through the Health and Retirement Study d
 
 - https://hrsdata.isr.umich.edu/
 
-The analyses in the manuscript used the restricted version 3.5.x data releases available to the authors at the time of analysis. Users must obtain the appropriate files from the original data providers and place them locally according to `config/paths_template.yaml`.
+The analyses in the manuscript used project-local restricted inputs documented in the analysis-freeze record: preserved `MNAR_Pmm` imputed ELSA core wave tables covering ELSA waves 1-9, and a supplied preprocessed RAND/HRS Markov-format table covering HRS waves 6-15 (2002-2020). Users must obtain the appropriate authorized files from the original data providers and place them locally according to `config/paths_template.yaml`.
 
 ## Contents
 
